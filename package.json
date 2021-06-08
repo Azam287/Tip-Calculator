@@ -1,0 +1,11 @@
+{
+  "name": "tip_calculator",
+  "version": "1.0.0",
+  "description": "Tip calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Mohd.Azam Noor",
+  "license": "ISC"
+}
